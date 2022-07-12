@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"BCB",
+		"BPB",
+		"BBB"
+	],
+	
+	"key": {
+		"B": {
+			"item": "minecraft:stick"
+		},
+		"P": {
+			"item": "synthbooksmod:berry_press_used"
+		},
+		"C": {
+			"item": "minecraft:copper_ingot"
+		}
+	},
+	
+	"result": {
+		"item": "synthbooksmod:berry_press_recycled",
+		"count": 1
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"CCC",
+		"CBC",
+		"CCC"
+	],
+	
+	"key": {
+		"B": {
+			"item": "synthbooksmod:berry_oil"
+		},
+		"C": {
+			"item": "minecraft:coal"
+		}
+	},
+	
+	"result": {
+		"item": "synthbooksmod:oil",
+		"count": 8
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"variants" : {
+		"": {
+			"model": "synthbooksmod:block/example_block"
+		}
+	}
+}

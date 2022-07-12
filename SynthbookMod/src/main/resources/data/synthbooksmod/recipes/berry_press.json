@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"LSL",
+		"LSL",
+		"CCC"
+	],
+	
+	"key": {
+		"L": {
+			"tag": "logs"
+		},
+		"S": {
+			"item": "minecraft:stick"
+		},
+		"C": {
+			"item": "minecraft:copper_ingot"
+		}
+	},
+	
+	"result": {
+		"item": "synthbooksmod:berry_press",
+		"count": 1
+	}
+}

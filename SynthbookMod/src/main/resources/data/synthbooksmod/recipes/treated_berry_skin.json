@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"BBB",
+		"BOB",
+		"BBB"
+	],
+	
+	"key": {
+		"B": {
+			"item": "synthbooksmod:berry_skin"
+		},
+		"O": {
+			"item": "synthbooksmod:berry_oil"
+		}
+	},
+	
+	"result": {
+		"item": "synthbooksmod:treated_berry_skin",
+		"count": 1
+	}
+}

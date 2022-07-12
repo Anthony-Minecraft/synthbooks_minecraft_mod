@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:sweet_berries"
+  },
+  "result": "synthbooksmod:berry_skin",
+  "experience": 0.3,
+  "cookingtime": 200
+}

@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"BBB",
+		"BPB",
+		"BBB"
+	],
+	
+	"key": {
+		"B": {
+			"item": "minecraft:glow_berries"
+		},
+		"P": {
+			"item": "synthbooksmod:berry_press_recycled"
+		}
+	},
+	
+	"result": {
+		"item": "synthbooksmod:berry_oil",
+		"count": 4
+	}
+}

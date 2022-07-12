@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"BBB",
+		"BOB",
+		"BBB"
+	],
+	
+	"key": {
+		"B": {
+			"item": "synthbooksmod:berry_leather"
+		},
+		"O": {
+			"item": "synthbooksmod:oil"
+		}
+	},
+	
+	"result": {
+		"item": "minecraft:leather",
+		"count": 16
+	}
+}

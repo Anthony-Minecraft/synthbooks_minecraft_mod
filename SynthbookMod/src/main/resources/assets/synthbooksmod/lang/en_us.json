@@ -1,0 +1,13 @@
+{
+	"item.synthbooksmod.example_item": "Example Item",
+	"item.synthbooksmod.berry_skin": "Berry Skin",
+	"item.synthbooksmod.berry_oil": "Berry Oil",
+	"item.synthbooksmod.treated_berry_skin": "Treated Berry Skin",
+	"item.synthbooksmod.berry_press": "Berry Press",
+	"item.synthbooksmod.berry_press_used": "Used Berry Press",
+	"item.synthbooksmod.berry_press_recycled": "Recycled Berry Press",
+	"item.synthbooksmod.berry_leather": "Berry Leather",
+	"item.synthbooksmod.oil": "Oil",
+	"itemGroup.synthbooksmod": "Synthbooks",
+	"block.synthbooksmod.example_block": "Example block"
+}

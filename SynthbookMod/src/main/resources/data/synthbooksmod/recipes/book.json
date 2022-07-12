@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"BP",
+		"PP"
+	],
+	
+	"key": {
+		"B": {
+			"item": "synthbooksmod:berry_leather"
+		},
+		"P": {
+			"item": "minecraft:paper"
+		}
+	},
+	
+	"result": {
+		"item": "minecraft:book",
+		"count": 1
+	}
+}
